@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "らずべり！（feat. MEIKO）",
+  "base_artist": "OZON",
+  "createdAt": "2026-02-27T08:38:22.877130Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "らずべり! (feat. MEIKO)",
+      "artist": "OZON",
+      "has_synced": false,
+      "path": "select/pl_01_らずべり!_(feat._MEIKO)_OZON.txt"
+    }
+  ]
+}
